@@ -1,4 +1,6 @@
 
+TypeScript.
+I would rather email you than write this talk, so how about I write this talk in an email to you. Feel free to skip or skim (you're quite good at skimming)
 
 Good morning. I'm Jessica Kerr, better known as Jessitron, and I'm happy to be talking about TypeScript today. TypeScript for the Enterprise -- especially the Java/C# developer. TypeScript on the back end, on the server, on Node. If you're doing front end development, half of this talk applies. If you're doing JavaScript on Node, at least half of this talk applies. The agenda for today is: 5  things I love about TypeScript, and 5 things that I found infuriating (but you won't, because you'll expect them, so they won't bite you).
 
