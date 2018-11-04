@@ -1,3 +1,3 @@
-import * as printingStatuses from "./index";
+import { printStatus } from "./index"
 
-printingStatuses.printStatus({ kind: "stopped" })
+printStatus({ kind: "stopped" });
