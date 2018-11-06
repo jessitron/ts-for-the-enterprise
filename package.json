@@ -8,7 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "boxen": "^2.0.0"
+  },
   "devDependencies": {
     "@types/node": "^10.12.2",
     "typescript": "^3.1.5"
