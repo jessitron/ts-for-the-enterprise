@@ -1,13 +1,14 @@
 {
-  "name": "thing",
+  "name": "ts-for-the-enterprise",
   "version": "1.0.0",
-  "description": "",
+  "description": "the tiny code sample for this talk for QConSF",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rm *.js *.d.ts"
   },
-  "author": "",
+  "author": "jessitron",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
