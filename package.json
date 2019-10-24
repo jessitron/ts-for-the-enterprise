@@ -14,7 +14,7 @@
     "boxen": "^2.0.0"
   },
   "devDependencies": {
-    "@types/node": "^10.12.2",
-    "typescript": "beta"
+    "@types/node": "^10.17.0",
+    "typescript": "^3.6"
   }
 }
